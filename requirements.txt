@@ -4,4 +4,4 @@ matplotlib
 streamlit
 plotly
 seaborn
-altair
+altairaltair.vegalite.v4
